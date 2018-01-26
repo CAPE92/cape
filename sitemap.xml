@@ -23,5 +23,41 @@
     <image:image>
       <image:loc>http://cape.com/images/our%20saviour_s%20lutheran%20church_128_1-crop-u169.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://cape.com/images/wechat.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cape.com/images/weibo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cape.com/images/ins.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://cape.com/purdue.html</loc>
+    <lastmod>2018-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cape.com/cape-about.html</loc>
+    <lastmod>2018-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cape.com/cape-contact.html</loc>
+    <lastmod>2018-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cape.com/cape-wechat.html</loc>
+    <lastmod>2018-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://cape.com/images/101516992915_pic_hd.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
