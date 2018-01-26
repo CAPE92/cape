@@ -1,0 +1,50 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cape.com" resolutions="1x" timestamp="1516990753471">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="160890484" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u129-4.png" crc="3876844301" ref="index"/>
+    <file name="u133-4.png" crc="355904122" ref="index"/>
+    <file name="u136-4.png" crc="4089764998" ref="index"/>
+    <file name="u172-4.png" crc="317174205" ref="index"/>
+    <file name="u176-4.png" crc="299891019" ref="index"/>
+    <file name="ross–ade stadium_1103_front face-crop-u115.jpg" crc="3772915734" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pmu_1029-crop-u107.jpg" crc="129465425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u213-4.png" crc="317174205" ref="index"/>
+    <file name="u216-4.png" crc="299891019" ref="index"/>
+    <file name="2-crop-u123.jpg" crc="469058529" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u225-4.png" crc="317174205" ref="index"/>
+    <file name="u228-4.png" crc="299891019" ref="index"/>
+    <file name="img_7503-crop-u250.jpg" crc="3948186383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wang_1103-crop-u166.jpg" crc="441155155" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="our saviour_s lutheran church_128_1-crop-u169.jpg" crc="29131454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u252-4.png" crc="317174205" ref="index"/>
+    <file name="u265-4.png" crc="317174205" ref="index"/>
+    <file name="u277-4.png" crc="317174205" ref="index"/>
+    <file name="u253-4.png" crc="299891019" ref="index"/>
+    <file name="u268-4.png" crc="299891019" ref="index"/>
+    <file name="u280-4.png" crc="299891019" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3841492494" seo="true" mt="1516990481030" redirect="true"/>
+</manifest>
